@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "553956172294",
+    "project_id": "disaster-avert-3f2f4",
+    "storage_bucket": "disaster-avert-3f2f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553956172294:android:27ca69e38b2644217b9987",
+        "android_client_info": {
+          "package_name": "com.sampath.disasteravert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553956172294-30803tjrl7co7toema9iu307hef9qlrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASOO3d6F5spyO0-Z1ZAsa1xp7K0YM9M0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553956172294-30803tjrl7co7toema9iu307hef9qlrv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "553956172294-gqbiop31sn724u7uffkukj2idtrj7f7m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sampath.disasteravert"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
